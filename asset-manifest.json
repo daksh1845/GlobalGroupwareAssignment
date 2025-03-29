@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GlobalGroupwareAssignment/static/css/main.789c333d.css",
+    "main.js": "/GlobalGroupwareAssignment/static/js/main.4c7d2146.js",
+    "index.html": "/GlobalGroupwareAssignment/index.html",
+    "main.789c333d.css.map": "/GlobalGroupwareAssignment/static/css/main.789c333d.css.map",
+    "main.4c7d2146.js.map": "/GlobalGroupwareAssignment/static/js/main.4c7d2146.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.789c333d.css",
+    "static/js/main.4c7d2146.js"
+  ]
+}
